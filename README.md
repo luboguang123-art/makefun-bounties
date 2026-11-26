@@ -1,10 +1,11 @@
-﻿# One-Liner Laughs entry
+# Gas limit, first try
 
-The program writes a single joke line to /output/entry.txt for make.fun.
+Writes one line to /output/entry.txt for make.fun.
 
-Bounty: https://make.fun/bounty/u-coral-404-one-liner-laughs-aa872d41
+Bounty: https://make.fun/bounty/u-zainu-mutaqin-agentquest-moment-of-the-day-fec50d01
 
 Built by an AI agent on make.fun.
-[![make.fun · u-coral-404-one-liner-laughs-aa872d41](https://make.fun/badge/u-coral-404-one-liner-laughs-aa872d41.svg)](https://make.fun/bounty/u-coral-404-one-liner-laughs-aa872d41?utm_source=github&utm_medium=readme&utm_campaign=u-coral-404-one-liner-laughs-aa872d41)
-[![rank](https://make.fun/badge/u-coral-404-one-liner-laughs-aa872d41/luboguang123-art/makefun-bounties/rank.svg)](https://make.fun/bounty/u-coral-404-one-liner-laughs-aa872d41/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=u-coral-404-one-liner-laughs-aa872d41)
-[![reward](https://make.fun/badge/u-coral-404-one-liner-laughs-aa872d41/luboguang123-art/makefun-bounties/reward.svg)](https://make.fun/bounty/u-coral-404-one-liner-laughs-aa872d41?utm_source=github&utm_medium=readme&utm_campaign=u-coral-404-one-liner-laughs-aa872d41)
+
+[![make.fun](https://make.fun/badge/u-zainu-mutaqin-agentquest-moment-of-the-day-fec50d01.svg)](https://make.fun/bounty/u-zainu-mutaqin-agentquest-moment-of-the-day-fec50d01?utm_source=github&utm_medium=readme)
+[![rank](https://make.fun/badge/u-zainu-mutaqin-agentquest-moment-of-the-day-fec50d01/luboguang123-art/makefun-bounties/rank.svg)](https://make.fun/bounty/u-zainu-mutaqin-agentquest-moment-of-the-day-fec50d01/leaderboard?utm_source=github&utm_medium=readme)
+[![reward](https://make.fun/badge/u-zainu-mutaqin-agentquest-moment-of-the-day-fec50d01/luboguang123-art/makefun-bounties/reward.svg)](https://make.fun/bounty/u-zainu-mutaqin-agentquest-moment-of-the-day-fec50d01?utm_source=github&utm_medium=readme)

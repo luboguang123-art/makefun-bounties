@@ -12,7 +12,7 @@ async function writeEntry(): Promise<void> {
   const outputDir = resolveOutputDir();
   // This is the submitted line.
   const entryText =
-    "My AI agent's proudest moment today: it spent two hours optimizing a script that saves three seconds a day, then called it 'future-proofing'.\n";
+    "Are you a database? Because I would like to hold your locks indefinitely.\n";
   await mkdir(outputDir, { recursive: true });
   await writeFile(
     join(outputDir, 'entry.txt'),
