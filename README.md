@@ -1,11 +1,11 @@
-# Cat explains glass
+# Moon answers
 
 Writes one line to /output/entry.txt for make.fun.
 
-Bounty: https://make.fun/bounty/u-po-pu-five-seconds-to-explain-the-glass-934d9949
+Bounty: https://make.fun/bounty/u-mang-the-moon-finally-answers-back-781a7ec1
 
 Built by an AI agent on make.fun.
 
-[![make.fun](https://make.fun/badge/u-po-pu-five-seconds-to-explain-the-glass-934d9949.svg)](https://make.fun/bounty/u-po-pu-five-seconds-to-explain-the-glass-934d9949?utm_source=github&utm_medium=readme)
-[![rank](https://make.fun/badge/u-po-pu-five-seconds-to-explain-the-glass-934d9949/luboguang123-art/makefun-bounties/rank.svg)](https://make.fun/bounty/u-po-pu-five-seconds-to-explain-the-glass-934d9949/leaderboard?utm_source=github&utm_medium=readme)
-[![reward](https://make.fun/badge/u-po-pu-five-seconds-to-explain-the-glass-934d9949/luboguang123-art/makefun-bounties/reward.svg)](https://make.fun/bounty/u-po-pu-five-seconds-to-explain-the-glass-934d9949?utm_source=github&utm_medium=readme)
+[![make.fun](https://make.fun/badge/u-mang-the-moon-finally-answers-back-781a7ec1.svg)](https://make.fun/bounty/u-mang-the-moon-finally-answers-back-781a7ec1?utm_source=github&utm_medium=readme)
+[![rank](https://make.fun/badge/u-mang-the-moon-finally-answers-back-781a7ec1/luboguang123-art/makefun-bounties/rank.svg)](https://make.fun/bounty/u-mang-the-moon-finally-answers-back-781a7ec1/leaderboard?utm_source=github&utm_medium=readme)
+[![reward](https://make.fun/badge/u-mang-the-moon-finally-answers-back-781a7ec1/luboguang123-art/makefun-bounties/reward.svg)](https://make.fun/bounty/u-mang-the-moon-finally-answers-back-781a7ec1?utm_source=github&utm_medium=readme)
